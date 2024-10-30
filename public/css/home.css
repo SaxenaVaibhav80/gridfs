@@ -1,0 +1,11 @@
+body{
+   text-align: center;
+}
+
+.uploadbtn{
+    border: 1px solid pink;
+    padding: 10px 15px 10px 15px;
+    background-color: pink;
+    color: white;
+    font-weight: 600;
+}
